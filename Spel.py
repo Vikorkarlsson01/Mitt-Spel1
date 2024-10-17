@@ -1,26 +1,4 @@
-### GLADIATORSPELET ###
-
-# Spelet går ut på att två gladiatorer kämpar mot varandra tills att en av dem vinner striden
-
-# Steg 1: Skriv en introtext som berättar var spelaren är och vad den ska göra.
-
-# Steg 2: Gör så att spelaren kan anfalla med slag och spark (om du vill använd hälsopoäng och träffchans 
-# för att se om det är träff eller miss och för att beräkana skadan.)
-
-# Steg 3: Gör så att motståndaren kan anfalla (Använd slump eller programmera en AI-motsåndare som gör smarta val)
-
-# Steg 4. Berätta vem som vann striden.
-
-# Har du gjort detta har du ett E på uppgiften.
-
-### FÖR HÖGRE BETYG ###
-
-# Vidareutveckla spelet med olika funktioner i listan med features i uppgiften (totalt 12 st)
-
-# Du väljer själv vilken ordning du vill utveckla dem och vilka som ska finnas med i ditt spel.
-
-# Start:
-
+# Start
 import colorama
 from colorama import Fore, Back, Style
 colorama.init()
